@@ -38,7 +38,7 @@ This is a RESTful API built with Express.js and MongoDB for tracking expenses. I
 | POST  | api/users/resetPassword| User reset password |
 | GET  | api/users/dashboard| User dashboard |
 
-### transactions
+### Transactions
 | Method  | Endpoint | Dscription
 | ------------- | ------------- | ------------- |
 | POST  | api/transactions/addIncome| Add income |
